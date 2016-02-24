@@ -1,17 +1,28 @@
 {
-	"name": "unisolutions/silverstripe-i18nenum",
-	"type": "silverstripe-module",
-	"description": "Translatable Enum fieldtype for Silverstripe.",
-	"keywords": ["silverstripe", "enum", "i18n", "translatable"],
-	"authors": [{
-		"name": "Elvinas Liutkevičius",
-		"email": "elvinas@unisolutions.eu"
-	}],
-	"require": {
-		"silverstripe/framework": "3.*"
-	},
-	"minimum-stability": "dev",
-	"extra": {
-		"installer-name": "i18nenum"
-	}
+    "name": "unisolutions/silverstripe-i18nenum",
+    "type": "silverstripe-module",
+    "description": "Translatable Enum fieldtype for Silverstripe.",
+    "keywords": [
+        "silverstripe",
+        "enum",
+        "i18n",
+        "translatable"
+    ],
+    "authors": [
+        {
+            "name": "Elvinas Liutkevi\u010dius",
+            "email": "elvinas@unisolutions.eu"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "3.*"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "installer-name": "i18nenum"
+    },
+    "support": {
+        "issues": "https://github.com/unisolutions/silverstripe-i18nenum/issues"
+    },
+    "homepage": "https://github.com/unisolutions/silverstripe-i18nenum"
 }
